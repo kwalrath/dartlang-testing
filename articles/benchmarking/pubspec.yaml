@@ -1,0 +1,5 @@
+name:  benchmark_article_test
+description:  Test code for benchmark_article
+
+dependencies:
+  benchmark_harness: ">=1.0.0 <2.0.0"
